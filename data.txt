@@ -1,0 +1,22 @@
+Hello Team,  
+
+Here are some contacts collected from different departments:  
+
+- Sales: sales_team@company.com  
+- HR: hr.recruitment@company.com  
+- Support: helpdesk123@service.org  
+- Backup: backup_mail@domain.net  
+
+Some fake/typo emails too:  
+info@company  
+user@@domain.com  
+admin@company.c  
+
+Also external contacts:  
+jane_doe99@gmail.com  
+mike.smith@outlook.com  
+project-lead@university.edu  
+contact_us@ngo.org  
+
+Thanks,  
+Management

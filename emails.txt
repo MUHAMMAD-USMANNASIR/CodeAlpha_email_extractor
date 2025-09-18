@@ -1,0 +1,8 @@
+sales_team@company.com
+hr.recruitment@company.com
+helpdesk123@service.org
+backup_mail@domain.net
+jane_doe99@gmail.com
+mike.smith@outlook.com
+project-lead@university.edu
+contact_us@ngo.org
